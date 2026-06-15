@@ -34,17 +34,17 @@ A clean **horizontal rule** divides the card into two zones:
 This creates a natural visual flow and avoids the tension that a diagonal split would create.
 
 ### Front Side
+- Pure black background (#1A1A1A)
+- LL monogram icon mark centered — large and commanding
+- No extra elements — the mark speaks for itself
+
+### Back Side
 - Layerloom horizontal logo top left
 - Tagline: *"Where Creativity Lives on Your Walls"*
 - Name: Ayush Asodariya | Title: Artist
 - Email: layerloom.art@gmail.com
 - Instagram: @layerloom.arts
 - QR code linking to Instagram page
-
-### Back Side
-- Pure black background (#1A1A1A)
-- LL monogram icon mark centered — large and commanding
-- No extra elements — the mark speaks for itself
 
 ---
 
